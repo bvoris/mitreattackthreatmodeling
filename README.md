@@ -28,7 +28,7 @@ Go to https://attack.mitre.org/<BR />
 Click the search magnifying glass<BR />
 
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/01search.png?raw=true" WIDTH=50% HEIGHT=50%><BR />
-Search for "healthcare"<BR />
+Search for "healthcare"<BR /><BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/02searchhealthcare.png?raw=true" WIDTH=50% HEIGHT=50%><BR />
 For simplicity we will select two threat groups APT 40/Leviathan and APT 41<BR />
   
