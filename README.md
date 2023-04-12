@@ -54,6 +54,8 @@ The attack techniques should now be colored.<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/12allattacktechniquescolored.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Now we need to add a score to provide a value or weight to the attack techniques<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/13clickscore.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+Set the value for score to 1<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/14score1.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />  
 <BR /><BR />
 ## Connect with me at
 
