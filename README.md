@@ -29,7 +29,7 @@ Click the search magnifying glass<BR /><BR />
 
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/01search.png?raw=true" WIDTH=50% HEIGHT=50% ALIGN=LEFT><BR />
   
-Search for "healthcare"<BR />
+Search for "healthcare"<BR /><BR />
 
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/02searchhealthcare.png?raw=true" WIDTH=50% HEIGHT=50% ALIGN=LEFT><BR />
  
