@@ -60,7 +60,7 @@ Set the value for score to 1<BR />
 # We've added our first known threat group now we need to add more for the industry we selected.
 For this exercise we will add one more, but keep in mind you can add as many as you need for your threat model.  
 
-Lets add one more by clicking the +<BR />  
+Lets add one more by clicking the + <BR />  
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/15clickthe+tocreateanewtab.png?raw=true"><BR /><BR />
 
 <BR /><BR />
