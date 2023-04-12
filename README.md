@@ -1,5 +1,5 @@
 # Threat Modeling with MITRE ATT&CK Framework 
-This provides a guided step by step walkthrough for threat modeling with MITRE ATT&amp;CK Framework
+This provides a guided step by step walkthrough for threat modeling with MITRE ATT&amp;CK Framework<BR />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social"><BR />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/mitreattackthreatmodeling">
