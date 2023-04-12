@@ -26,6 +26,8 @@ We need an industry. For this demonstation I've selected HEALTHCARE as the indus
 # Lets get started
 Go to https://attack.mitre.org/ <BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/01search.png?raw=true" WIDTH=50% HEIGHT=50% ALIGN=LEFT>
+ 
+<BR /><BR />
 
 ## Connect with me at
 
