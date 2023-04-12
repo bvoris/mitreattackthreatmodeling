@@ -11,7 +11,11 @@ This provides a guided step by step walkthrough for threat modeling with MITRE A
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/mitreattackthreatmodeling">
 
 
-
+# Links
+MITRE ATT&CK Website - this is needed to search for threat groups, techniques, and tools used by threat actors <BR />
+https://attack.mitre.org/ <BR />
+ATT&CK Navigator - maps out threat group techniques, allows for developing threat models <BR />
+https://mitre-attack.github.io/attack-navigator/ <BR />
 
 
 
