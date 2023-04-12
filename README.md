@@ -62,7 +62,8 @@ For this exercise we will add one more, but keep in mind you can add as many as 
 
 Lets add one more by clicking the + <BR />  
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/15clickthe+tocreateanewtab.png?raw=true"><BR /><BR />
-
+Lets creat a new layer<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/16clickcreatenewlayer.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 <BR /><BR />
 ## Connect with me at
 
