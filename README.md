@@ -18,7 +18,7 @@ ATT&CK Navigator - maps out threat group techniques, allows for developing threa
 https://mitre-attack.github.io/attack-navigator/ <BR />
 
 # What are you trying to accomplish?
-We are trying to determine the matrices that show known attack techniques of threat groups
+We are trying to determine the matrices that show known attack techniques of threat groups and develop a model based on those techniques to help anticipate actions of those threat groups and help validate security controls.
 
 # What do we need from here?
 We need an industry. For this demonstation I've selected HEALTHCARE as the industry. <BR />
