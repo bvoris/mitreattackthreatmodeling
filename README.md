@@ -28,12 +28,8 @@ Go to https://attack.mitre.org/<BR />
 Click the search magnifying glass<BR />
 
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/01search.png?raw=true" WIDTH=50% HEIGHT=50% ALIGN=LEFT><BR /><BR />
-  
-Search for "healthcare"<BR /><BR />
-
+Search for "healthcare"<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/02searchhealthcare.png?raw=true" WIDTH=50% HEIGHT=50% ALIGN=LEFT><BR /><BR />
- 
-  
 <BR /><BR />
 
 ## Connect with me at
