@@ -82,6 +82,9 @@ Lets add one more by clicking the + <BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/15clickthe+tocreateanewtab.png?raw=true"><BR /><BR />  
 Click Create Layers from other layers, domain should be Enterprise ATT&CK, Expression should be the layers you have (a+b), gradient & coloring should be your first layer<BR />  
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/25selectionsformultilayer.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+If you've created it correctly you should have a threat model based on the threat groups you selected, color coded with the scores added for a combined score on techniques that overlap.<BR />  
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/26clickcreateandreviewcontentsasrequired.png?raw=true"><BR /><BR />  
+  
   
 <BR /><BR />
 ## Connect with me at
