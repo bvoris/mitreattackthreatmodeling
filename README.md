@@ -40,6 +40,9 @@ Click on the layer and name it to the threat group<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/06clicklayerintheupperleftandnamethelayer.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 The change will be reflect in the layer name<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/07layernamedAPT40.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+Click the magnifying glass under selection controls<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/08clickthemagnifyingglass.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+
 <BR /><BR />
 ## Connect with me at
 
