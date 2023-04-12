@@ -10,6 +10,11 @@ This provides a guided step by step walkthrough for threat modeling with MITRE A
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/mitreattackthreatmodeling">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/mitreattackthreatmodeling">
 
+# Preface
+I've taken 3 classes in using MITRE ATT&CK Framework as a threat modeling tool. <BR />
+I highly recommend Ismael Valenzuela's work in threat modeling and his portion of the SANS 350 course. <BR />
+https://www.sans.org/profiles/ismael-valenzuela/ <BR />
+I've been using this threat modeling now for a few years on misc. projects and contract work. Its incredibly helpful in security control designing and architecture.<BR />
 
 # Links
 MITRE ATT&CK Website - this is needed to search for threat groups, techniques, and tools used by threat actors <BR />
