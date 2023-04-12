@@ -37,6 +37,7 @@ Lets create a new layer<BR />
 Select Enterprise under create new layer<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/05selectenterpriseincreatenew%20layer.png?raw=true" WIDTH=50% HEIGHT=50%><BR />
 
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/06clicklayerintheupperleftandnamethelayer.png?raw=true" WIDTH=50% HEIGHT=50%><BR />
 <BR /><BR />
 ## Connect with me at
 
