@@ -46,6 +46,9 @@ Search for the Threat Group in the search field<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/09clickselectnexttothethreatgroupname.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Click select next to the threat group<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/09clickselectnexttothethreatgroupname.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+Selected techniques should now appear highlighted<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/10oncethethreatgrouphasbeenselectedtheywill%20behighlighted.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+
 <BR /><BR />
 ## Connect with me at
 
