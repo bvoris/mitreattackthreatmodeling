@@ -62,15 +62,20 @@ For this exercise we will add one more, but keep in mind you can add as many as 
 
 Lets add one more by clicking the + <BR />  
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/15clickthe+tocreateanewtab.png?raw=true"><BR /><BR />
-Lets creat a new layer<BR />
+Lets create a new layer<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/16clickcreatenewlayer.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+Name the new layer like in the previous steps<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/22clickthe+toaddanewlayer.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Click enterprise<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/17clickenterprise.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Click Selection Controls magnifying glass and search for the threat group<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/19clickselectioncontrolsmagnifyingglasssearchandselectthethreatgroup.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Validate that the threat group techniques have been selected<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/20validate%20threat%20group%20techniques%20have%20been%20selected.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
-
+Select the color for threat groups techniques.<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/21colorthethreatgroupstechniques.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+Set the score for the techniques just as before<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/24undertechniquecontrolsselectscoreandput1.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 <BR /><BR />
 ## Connect with me at
 
