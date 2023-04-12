@@ -66,6 +66,9 @@ Lets creat a new layer<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/16clickcreatenewlayer.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Click enterprise<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/17clickenterprise.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+Click Selection Controls magnifying glass and search for the threat group<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/19clickselectioncontrolsmagnifyingglasssearchandselectthethreatgroup.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+
 <BR /><BR />
 ## Connect with me at
 
