@@ -50,6 +50,9 @@ Selected techniques should now appear highlighted<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/10oncethethreatgrouphasbeenselectedtheywill%20behighlighted.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Now we want a bit more visibility in the techniques so we will select a color<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/11undertechniquecontrolsselectacolor.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+The attack techniques should now be colored.<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/12allattacktechniquescolored.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+  
 <BR /><BR />
 ## Connect with me at
 
