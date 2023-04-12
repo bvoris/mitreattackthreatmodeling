@@ -56,6 +56,10 @@ Now we need to add a score to provide a value or weight to the attack techniques
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/13clickscore.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Set the value for score to 1<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/14score1.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />  
+
+# We've added our first known threat group now we need to add more for the industry we selected.
+For this exercise we will add one more, but keep in mind you can add as many as you need for your threat model.  
+
 <BR /><BR />
 ## Connect with me at
 
