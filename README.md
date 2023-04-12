@@ -10,6 +10,8 @@ This provides a guided step by step walkthrough for threat modeling with MITRE A
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/mitreattackthreatmodeling">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/mitreattackthreatmodeling">
 
+# Preface
+I've taken 3 classes utilizing MITRE ATT&ACK Framework for threat modeling. I've found this pretty helpful and wanted to share what I've learned. <BR />
 
 # Links
 MITRE ATT&CK Website - this is needed to search for threat groups, techniques, and tools used by threat actors <BR />
