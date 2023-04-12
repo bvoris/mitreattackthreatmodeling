@@ -68,6 +68,8 @@ Click enterprise<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/17clickenterprise.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Click Selection Controls magnifying glass and search for the threat group<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/19clickselectioncontrolsmagnifyingglasssearchandselectthethreatgroup.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
+Validate that the threat group techniques have been selected<BR />
+<IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/20validate%20threat%20group%20techniques%20have%20been%20selected.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 
 <BR /><BR />
 ## Connect with me at
