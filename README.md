@@ -24,9 +24,8 @@ We are trying to determine the matrices that show known attack techniques of thr
 We need an industry. For this demonstation I've selected HEALTHCARE as the industry. <BR />
 
 # Lets get started
-Go to https://attack.mitre.org/<BR />
+Go to https://attack.mitre.org/<BR /><BR />
 Click the search magnifying glass<BR />
-
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/01search.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 Search for "healthcare"<BR />
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/02searchhealthcare.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
