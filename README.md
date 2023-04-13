@@ -89,7 +89,9 @@ Click Create Layers from other layers, domain should be Enterprise ATT&CK, Expre
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/25selectionsformultilayer.png?raw=true" WIDTH=50% HEIGHT=50%><BR /><BR />
 If you've created it correctly you should have a threat model based on the threat groups you selected, color coded with the scores added for a combined score on techniques that overlap.<BR />  
 <IMG SRC="https://github.com/bvoris/mitreattackthreatmodeling/blob/main/images/26clickcreateandreviewcontentsasrequired.png?raw=true"><BR /><BR />  
-  
+
+# Next Steps
+Next steps would be to export your threat model and use this in comparison to your known security controls, if security controls have not been identified then the threat model can provide insight on security controls for your particular use case.
   
 <BR /><BR />
 ## Connect with me at
