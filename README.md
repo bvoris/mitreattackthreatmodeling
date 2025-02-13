@@ -1,14 +1,5 @@
 # Threat Modeling with MITRE ATT&CK Framework 
 This provides a guided step by step walkthrough for threat modeling with MITRE ATT&amp;CK Framework<BR />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social"><BR />
-<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/mitreattackthreatmodeling">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/mitreattackthreatmodeling">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/mitreattackthreatmodeling/total">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/mitreattackthreatmodeling">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/mitreattackthreatmodeling">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/mitreattackthreatmodeling">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/mitreattackthreatmodeling">
 
 # Preface
 I've taken 3 classes in using MITRE ATT&CK Framework as a threat modeling tool. <BR />
@@ -97,3 +88,4 @@ Next steps would be to export your threat model and use this in comparison to yo
 ## Connect with me at
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social"><BR /><img alt="GitHub" src="https://img.shields.io/github/license/bvoris/mitreattackthreatmodeling"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/mitreattackthreatmodeling"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/mitreattackthreatmodeling/total"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/mitreattackthreatmodeling"><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/mitreattackthreatmodeling"><img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/mitreattackthreatmodeling"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/mitreattackthreatmodeling">
