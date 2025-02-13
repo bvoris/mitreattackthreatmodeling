@@ -105,5 +105,3 @@ Next steps would be to export your threat model and use this in comparison to yo
 
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
-<A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
-<BR /><BR />
